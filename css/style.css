@@ -8,11 +8,16 @@
   overflow: auto;
 }
 
-.education-entry, .work-entry, .project-entry {
+/*.education-entry, .work-entry, .project-entry { */
+.education-entry, .work-entry {
   padding-left: 5%;
   padding-right: 5%;
 }
 
+.project-entry {
+  text-align: center;
+}
+ 
 h1 {
   font-size: 40px;
   color: #F5A623;
@@ -21,7 +26,7 @@ h1 {
 }
 
 h2 {
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 24px;
   color: #999999;
   line-height: 29px;
@@ -55,6 +60,14 @@ h2, h3, h4, h5 {
   color: #999999;
   line-height: 16px;
   float: left;
+}
+
+.date-text-projects {
+  text-align: center;;
+  font-style: italic;
+  font-size: 14px;
+  color: #999999;
+  line-height: 16px;
 }
 
 .location-text {
