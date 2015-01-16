@@ -1,0 +1,9 @@
+Reousrces used:
+Version Control with Git and GitHub course
+Javascript Basics cousre
+Intro to jQuery course
+Piazza Nanodegree Community posts
+Google searches
+jQuery API Documentation
+String - Javascript | MDN
+Array - Javascirpt | MDN
